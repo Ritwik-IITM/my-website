@@ -1,3 +1,3 @@
 # My-website
 Created website
-Editing on update-readme branch locally and remotely
+updated on Github master branch before rebase 
