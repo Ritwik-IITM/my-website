@@ -1,3 +1,3 @@
 # My-website
 Created website
-Editing on update-readme branch locally
+Editing on update-readme branch locally and remotely
