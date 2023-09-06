@@ -1,4 +1,4 @@
 # My-website
-Created website
-updated on Github master branch before rebase 
+Created website 
+Edited keeping develop as default branch
 Edit on develop branch locally
